@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><class>
+	<student idno="101">
+		<firstname>Kareena</firstname>
+		<lastname>Kapoor</lastname>
+		<score>23</score>
+	</student>
+	
+	<student idno="102">
+		<firstname>Salman</firstname>
+		<lastname>Khan</lastname>
+		<score>283</score>
+	</student>
+	
+	<student idno="103">
+		<firstname>Amir</firstname>
+		<lastname>Khan</lastname>
+		<score>23</score>
+	</student>
+	
+	<student idno="104">
+		<firstname>Dipika</firstname>
+		<lastname>Padukone</lastname>
+		<score>23</score>
+	</student>
+<age>26</age></class>
